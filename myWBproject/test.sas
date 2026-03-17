@@ -1,1 +1,3 @@
-%put Hello world ;
+data class ;
+   set sashelp.class ;
+run ;
